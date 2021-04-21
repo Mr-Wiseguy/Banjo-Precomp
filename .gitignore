@@ -1,0 +1,5 @@
+build/
+.vscode/
+elf/
+tools/banjocrc
+tools/n64crc

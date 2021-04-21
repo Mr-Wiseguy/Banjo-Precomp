@@ -1,0 +1,44 @@
+gzip_1_2_4
+bk_extract
+bk_assets_extract
+bk_assets_build
+bk_deflate_code
+bk_inflate_code
+bk_splat_yaml
+*.z64
+*.n64
+*.v64
+.vscode/*
+
+# Prerequisites
+*.d
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
